@@ -1,6 +1,6 @@
 DefaultContentLanguage = "id"
 author = "Redaksi"
-baseURL = "https://wildanfauzy.com"
+baseURL = "https://clever-varahamihira-5e74a1.netlify.app/"
 copyright = "© 2012–2021 WildanFauzy.com"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
