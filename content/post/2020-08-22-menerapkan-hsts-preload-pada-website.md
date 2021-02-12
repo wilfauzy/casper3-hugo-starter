@@ -5,7 +5,7 @@ categories:
 - Share
 date: 2020-08-22T08:38:49Z
 guid: https://wildanfauzy.com/?p=7182
-image: /wp-content/uploads/2020/07/google-chrome.jpg
+featured_image: "/wp-content/uploads/2020/07/google-chrome.jpg"
 header-mask: 0.4
 id: 7182
 tags:

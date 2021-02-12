@@ -5,7 +5,7 @@ categories:
 - Internet
 date: 2020-07-24T22:48:57Z
 guid: https://wildanfauzy.com/anak-babi-itu-berlari/
-image: /img/babi.jpeg
+bigimg: "/img/babi.jpeg"
 header-mask: "0.4"
 id: 5647
 mashsb_jsonshares:

@@ -6,7 +6,7 @@ categories:
 - WOW
 date: 2020-08-14T11:26:52Z
 guid: https://wildanfauzy.com/?p=6927
-image: /wp-content/uploads/2020/08/gelas-kopi.jpg
+featured_image: "/wp-content/uploads/2020/08/gelas-kopi.jpg"
 header-mask: 0.4
 id: 6927
 snax_approval_data:

@@ -5,7 +5,7 @@ categories:
 - Linux
 date: 2020-06-02T13:09:42Z
 guid: https://wildanfauzy.com/?p=2647
-image: /wp-content/uploads/2020/06/xubuntu-mace-bak.png
+bigimg: "/wp-content/uploads/2020/06/xubuntu-mace-bak.png"
 header-mask: "0.4"
 id: 2647
 image: /wp-content/uploads/2020/06/xubuntu.png

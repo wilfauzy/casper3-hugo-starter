@@ -10,7 +10,7 @@ essb_cached_image:
 essb_pc_pinterest:
 - "2"
 guid: https://wildanfauzy.com/?p=5951
-image: /wp-content/uploads/2020/07/800px-Senja_di_Lubuk_Buaya.jpg
+bigimg: "/wp-content/uploads/2020/07/800px-Senja_di_Lubuk_Buaya.jpg"
 header-mask: 0.4
 id: 5951
 mashsb_jsonshares:

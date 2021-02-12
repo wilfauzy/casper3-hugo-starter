@@ -4,7 +4,7 @@ categories:
 - Linux
 date: 2020-09-17T16:59:40Z
 guid: https://wildanfauzy.com/?p=8108
-image: /wp-content/uploads/2020/09/cara-uninstall-aplikasi-bawaan-android.jpg
+featured_image: "/wp-content/uploads/2020/09/cara-uninstall-aplikasi-bawaan-android.jpg"
 header-mask: "0.4"
 id: 8108
 tags:

@@ -4,7 +4,7 @@ categories:
 - Linux
 date: 2020-07-02T18:30:37Z
 guid: https://wildanfauzy.com/?p=4756
-image: /wp-content/uploads/2020/07/ubuntu-mate.png
+bigimg: "/wp-content/uploads/2020/07/ubuntu-mate.png"
 header-mask: 0.4
 id: 4756
 tags:

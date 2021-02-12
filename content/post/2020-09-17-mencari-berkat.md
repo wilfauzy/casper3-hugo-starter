@@ -4,7 +4,7 @@ categories:
 - Note
 date: 2020-09-17T19:21:39Z
 guid: https://wildanfauzy.com/?p=8122
-image: /wp-content/uploads/2020/09/berkat.jpg
+featured_image: "/wp-content/uploads/2020/09/berkat.jpg"
 header-mask: 0.4
 id: 8122
 tags:

@@ -4,7 +4,7 @@ categories:
 - Animals
 date: 2020-08-12T02:06:00Z
 guid: https://wildanfauzy.com/?p=6890
-image: /wp-content/uploads/2020/08/burung-bernyanyi-di-pohon-jambu.jpg
+featured_image: "/wp-content/uploads/2020/08/burung-bernyanyi-di-pohon-jambu.jpg"
 header-mask: 0.4
 id: 6890
 snax_approval_data:

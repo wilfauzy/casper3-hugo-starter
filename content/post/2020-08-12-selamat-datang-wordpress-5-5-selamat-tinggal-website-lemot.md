@@ -4,7 +4,7 @@ categories:
 - Share
 date: 2020-08-12T18:20:37Z
 guid: https://wildanfauzy.com/?p=6901
-image: /wp-content/uploads/2020/08/Billy_duotone-1000px_quiche-sans-top.png
+featured_image: "/wp-content/uploads/2020/08/Billy_duotone-1000px_quiche-sans-top.png"
 header-mask: 0.4
 id: 6901
 snax_approval_data:

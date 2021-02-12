@@ -2,7 +2,7 @@
 author: WilFauzy
 catalog: false
 date: 2020-12-07T02:00:00Z
-image: /img/unsplash-gallery-image-1-th.jpg
+featured_image: "/img/unsplash-gallery-image-1-th.jpg"
 header-mask: "0.3"
 redirect_from:
 - /menanti/

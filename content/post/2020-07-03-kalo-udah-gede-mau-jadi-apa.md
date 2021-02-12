@@ -4,7 +4,7 @@ categories:
 - Cerita Pendek
 date: 2020-07-03T10:32:19Z
 guid: https://wildanfauzy.com/kalo-udah-gede-mau-jadi-apa/
-image: /wp-content/uploads/2020/07/pexels-photo-4710908.jpeg
+bigimg: "/wp-content/uploads/2020/07/pexels-photo-4710908.jpeg"
 header-mask: 0.4
 tags:
 - cerpen

@@ -2,7 +2,7 @@
 author: WilFauzy
 catalog: true
 date: 2021-02-11T02:30:00Z
-image: /img/dorong-motor_2510.jpg
+featured_image: "/img/dorong-motor_2510.jpg"
 header-mask: "0.4"
 tags:
 - note

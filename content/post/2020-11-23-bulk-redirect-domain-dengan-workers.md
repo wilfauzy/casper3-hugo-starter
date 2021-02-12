@@ -5,7 +5,7 @@ categories:
 - Internet
 date: 2020-11-23T00:53:44Z
 guid: https://wildanfauzy.com/?p=8647
-image: /wp-content/uploads/2020/11/bulk-redirect.png
+featured_image: "/wp-content/uploads/2020/11/bulk-redirect.png"
 header-mask: "0.4"
 id: 8647
 tags:

@@ -5,7 +5,7 @@ categories:
 - Share
 date: 2020-09-17T15:19:46Z
 guid: https://wildanfauzy.com/?p=8103
-image: /wp-content/uploads/2020/09/photo_2020-09-17_15-42-09.jpg
+featured_image: "/wp-content/uploads/2020/09/photo_2020-09-17_15-42-09.jpg"
 header-mask: 0.4
 id: 8103
 tags:

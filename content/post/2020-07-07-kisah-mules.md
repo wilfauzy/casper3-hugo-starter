@@ -8,7 +8,7 @@ essb_cache_expire:
 essb_cached_image:
 - https://wildanfauzy.com/wp-content/uploads/2020/07/pexels-photo-3958561.jpeg
 guid: https://wildanfauzy.com/kisah-mules/
-image: /wp-content/uploads/2020/07/pexels-photo-3958561.jpeg
+bigimg: "/wp-content/uploads/2020/07/pexels-photo-3958561.jpeg"
 header-mask: 0.4
 id: 4848
 mashsb_jsonshares:

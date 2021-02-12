@@ -4,7 +4,7 @@ categories:
 - WOW
 date: 2020-10-12T09:41:18Z
 guid: https://wildanfauzy.com/?p=8382
-image: /wp-content/uploads/2020/10/teh-tarik-susu.jpg
+featured_image: "/wp-content/uploads/2020/10/teh-tarik-susu.jpg"
 id: 8382
 title: Teh Tarik Dicampur Susu
 url: /teh-tarik-dicampur-susu/

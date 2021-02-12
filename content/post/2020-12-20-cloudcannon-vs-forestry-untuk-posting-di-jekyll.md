@@ -2,7 +2,7 @@
 author: pemuda malkis
 catalog: true
 date: 2020-12-20T02:57:00Z
-image: /img/pexels-leah-kelley-952594_r7cgtt.jpg
+featured_image: "/img/pexels-leah-kelley-952594_r7cgtt.jpg"
 header-mask: "0.4"
 tags:
 - forestry.io

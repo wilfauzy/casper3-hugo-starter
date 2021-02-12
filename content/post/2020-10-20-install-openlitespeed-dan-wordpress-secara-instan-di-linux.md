@@ -4,7 +4,7 @@ categories:
 - Linux
 date: 2020-10-20T15:03:19Z
 guid: https://wildanfauzy.com/?p=8437
-image: /wp-content/uploads/2020/10/wordpress-on-openlitespeed.jpg
+featured_image: "/wp-content/uploads/2020/10/wordpress-on-openlitespeed.jpg"
 header-mask: "0.4"
 id: 8437
 tags:

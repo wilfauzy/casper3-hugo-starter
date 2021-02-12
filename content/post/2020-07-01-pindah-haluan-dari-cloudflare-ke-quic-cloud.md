@@ -4,7 +4,7 @@ categories:
 - Share
 date: 2020-07-01T09:21:24Z
 guid: https://wildanfauzy.com/pindah-haluan-dari-cloudflare-ke-quic-cloud/
-image: /wp-content/uploads/2020/07/pexels-photo-216631.jpeg
+bigimg: "/wp-content/uploads/2020/07/pexels-photo-216631.jpeg"
 header-mask: 0.4
 id: 4732
 jnews_social_counter_all:

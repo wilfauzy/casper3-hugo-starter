@@ -2,7 +2,7 @@
 author: Redaksi
 catalog: false
 date: 2021-01-01T05:55:00Z
-image: /img/typora-1.png
+featured_image: "/img/typora-1.png"
 header-mask: "0.4"
 redirect_from:
 - /Menulis-Dengan-Typora/

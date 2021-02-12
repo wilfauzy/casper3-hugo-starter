@@ -2,7 +2,7 @@
 author: Linux Mania
 catalog: true
 date: 2021-01-07T13:11:00Z
-image: /img/default-desktop.jpg
+featured_image: "/img/default-desktop.jpg"
 header-mask: "0.4"
 tags:
 - peppermintos

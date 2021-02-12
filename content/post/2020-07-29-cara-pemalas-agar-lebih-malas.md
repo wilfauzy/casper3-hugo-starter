@@ -7,7 +7,7 @@ date: 2020-07-29T13:24:32Z
 gnpub_modified_count:
 - "1"
 guid: https://wildanfauzy.com/?p=5965
-image: /wp-content/uploads/2020/07/cara-menjadi-malas.jpeg
+bigimg: "/wp-content/uploads/2020/07/cara-menjadi-malas.jpeg"
 header-mask: 0.4
 id: 5965
 mashsb_jsonshares:

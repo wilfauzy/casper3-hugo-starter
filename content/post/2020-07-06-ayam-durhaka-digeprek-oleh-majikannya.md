@@ -4,7 +4,7 @@ categories:
 - Cerita Pendek
 date: 2020-07-06T21:03:36Z
 guid: https://wildanfauzy.com/?p=4840
-image: /wp-content/uploads/2020/07/ayam-geprek.jpg
+bigimg: "/wp-content/uploads/2020/07/ayam-geprek.jpg"
 header-mask: 0.4
 id: 4840
 mashsb_jsonshares:

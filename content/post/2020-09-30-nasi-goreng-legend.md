@@ -4,7 +4,7 @@ categories:
 - Note
 date: 2020-09-30T20:33:06Z
 guid: https://wildanfauzy.com/?p=8324
-image: /wp-content/uploads/2020/09/nasgor.jpg
+featured_image: "/wp-content/uploads/2020/09/nasgor.jpg"
 header-mask: 0.4
 id: 8324
 title: Nasi Goreng Legend

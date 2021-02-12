@@ -5,7 +5,7 @@ categories:
 - Share
 date: 2020-08-24T16:17:47Z
 guid: https://wildanfauzy.com/?p=7218
-image: /wp-content/uploads/2020/08/plugins-Jetpack.jpg
+featured_image: "/wp-content/uploads/2020/08/plugins-Jetpack.jpg"
 header-mask: 0.4
 id: 7218
 tags:

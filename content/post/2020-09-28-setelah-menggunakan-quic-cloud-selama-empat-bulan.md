@@ -6,7 +6,7 @@ categories:
 - Share
 date: 2020-09-28T15:29:47Z
 guid: https://wildanfauzy.com/?p=8290
-image: /wp-content/uploads/2020/09/cloudflare.png
+featured_image: "/wp-content/uploads/2020/09/cloudflare.png"
 header-mask: "0.4"
 id: 8290
 tags:

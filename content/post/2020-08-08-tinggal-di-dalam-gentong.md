@@ -4,7 +4,7 @@ categories:
 - Internet
 date: 2020-08-08T08:00:34Z
 guid: https://wildanfauzy.com/?p=6633
-image: /wp-content/uploads/2020/08/pexels-ylanite-koppens-1445416-1.jpg
+bigimg: "/wp-content/uploads/2020/08/pexels-ylanite-koppens-1445416-1.jpg"
 header-mask: 0.4
 id: 6633
 nb_of_words:

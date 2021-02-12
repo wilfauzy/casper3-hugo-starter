@@ -2,7 +2,7 @@
 author: pemuda malkis
 catalog: true
 date: 2020-12-04T02:08:00Z
-image: /img/tentang.jpg
+featured_image: "/img/tentang.jpg"
 header-mask: "0.4"
 tags:
 - blog

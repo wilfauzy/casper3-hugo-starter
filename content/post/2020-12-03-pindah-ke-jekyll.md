@@ -2,7 +2,7 @@
 author: Redaksi
 catalog: true
 date: 2020-12-03T23:38:00Z
-image: /wp-content/uploads/jekyll.png
+featured_image: "/wp-content/uploads/jekyll.png"
 header-mask: "0.4"
 redirect_from:
 - /2020/12/03/pindah-ke-jekyll/

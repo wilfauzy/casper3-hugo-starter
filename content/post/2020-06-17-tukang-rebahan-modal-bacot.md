@@ -4,7 +4,7 @@ categories:
 - Note
 date: 2020-06-17T22:04:49Z
 guid: https://wildanfauzy.com/tukang-rebahan-modal-bacot/
-image: /wp-content/uploads/2020/06/modal-bacot.jpg
+bigimg: "/wp-content/uploads/2020/06/modal-bacot.jpg"
 header-mask: 0.4
 id: 4076
 mashsb_jsonshares:

@@ -4,7 +4,7 @@ categories:
 - Cerita Pendek
 date: 2020-06-25T02:47:08Z
 guid: https://wildanfauzy.com/?p=4316
-image: /wp-content/uploads/2020/06/makan-bersama.jpg
+bigimg: "/wp-content/uploads/2020/06/makan-bersama.jpg"
 header-mask: "0.4"
 id: 4316
 subtitle: null

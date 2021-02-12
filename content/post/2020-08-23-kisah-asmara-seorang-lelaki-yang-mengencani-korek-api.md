@@ -4,7 +4,7 @@ categories:
 - WTF
 date: 2020-08-23T17:47:26Z
 guid: https://wildanfauzy.com/?p=7208
-image: /wp-content/uploads/2020/08/korek-kesayangan.jpg
+featured_image: "/wp-content/uploads/2020/08/korek-kesayangan.jpg"
 header-mask: 0.4
 id: 7208
 tags:

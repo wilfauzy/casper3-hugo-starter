@@ -5,7 +5,7 @@ categories:
 - Share
 date: 2020-09-15T17:22:12Z
 guid: https://wildanfauzy.com/?p=8066
-image: /wp-content/uploads/2020/09/cara-tranfer-domain.jpg
+featured_image: "/wp-content/uploads/2020/09/cara-tranfer-domain.jpg"
 header-mask: 0.4
 id: 8066
 tags:

@@ -5,7 +5,7 @@ categories:
 date: 2020-06-13T10:45:50Z
 guid: https://wildanfauzy.com/?p=3621
 id: 3621
-image: /wp-content/uploads/2020/08/pexels-freestocksorg-34239.jpg
+bigimg: "/wp-content/uploads/2020/08/pexels-freestocksorg-34239.jpg"
 mashsb_jsonshares:
 - '{"total":0}'
 mashsb_shares:

@@ -4,7 +4,7 @@ categories:
 - Share
 date: 2020-09-12T01:03:42Z
 guid: https://wildanfauzy.com/?p=8009
-image: /wp-content/uploads/2020/09/pexels-mikotoraw-3367850.jpg
+featured_image: "/wp-content/uploads/2020/09/pexels-mikotoraw-3367850.jpg"
 header-mask: 0.4
 id: 8009
 title: Twitter dan Keluh Kesah

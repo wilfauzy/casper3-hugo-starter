@@ -4,7 +4,7 @@ categories:
 - Share
 date: 2020-08-19T07:53:30Z
 guid: https://wildanfauzy.com/?p=7088
-image: /wp-content/uploads/2020/08/kebetulan.jpg
+featured_image: "/wp-content/uploads/2020/08/kebetulan.jpg"
 header-mask: 0.4
 id: 7088
 snax_approval_data:

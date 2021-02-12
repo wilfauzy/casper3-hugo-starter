@@ -4,7 +4,7 @@ categories:
 - Note
 date: 2020-07-04T10:41:03Z
 guid: https://wildanfauzy.com/mampus-kau-tertipu-oleh-mendung/
-image: /wp-content/uploads/2020/07/pexels-photo-395196.jpeg
+bigimg: "/wp-content/uploads/2020/07/pexels-photo-395196.jpeg"
 header-mask: 0.4
 id: 4786
 mashsb_jsonshares:

@@ -4,7 +4,7 @@ categories:
 - WOW
 date: 2020-07-26T22:07:33Z
 guid: https://wildanfauzy.com/?p=5809
-image: /wp-content/uploads/2020/07/IMG_20200726_220111_410.jpg
+bigimg: "/wp-content/uploads/2020/07/IMG_20200726_220111_410.jpg"
 header-mask: 0.4
 id: 5809
 mashsb_jsonshares:

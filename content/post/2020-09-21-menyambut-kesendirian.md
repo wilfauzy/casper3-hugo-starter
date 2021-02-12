@@ -4,7 +4,7 @@ categories:
 - Note
 date: 2020-09-21T07:54:59Z
 guid: https://wildanfauzy.com/?p=8198
-image: /wp-content/uploads/2020/09/menyambut-kesendirian.jpg
+featured_image: "/wp-content/uploads/2020/09/menyambut-kesendirian.jpg"
 header-mask: 0.4
 id: 8198
 title: Menyambut Kesendirian

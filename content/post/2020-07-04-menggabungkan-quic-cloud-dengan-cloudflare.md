@@ -4,7 +4,7 @@ categories:
 - Share
 date: 2020-07-04T21:30:57Z
 guid: https://wildanfauzy.com/?p=4812
-image: /wp-content/uploads/2020/07/Quic-Cloud-Content-Delivery-Network-Gratis.png
+bigimg: "/wp-content/uploads/2020/07/Quic-Cloud-Content-Delivery-Network-Gratis.png"
 header-mask: 0.4
 id: 4812
 mashsb_jsonshares:

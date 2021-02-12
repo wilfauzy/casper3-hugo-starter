@@ -4,7 +4,7 @@ categories:
 - Note
 date: 2020-08-24T13:14:52Z
 guid: https://wildanfauzy.com/?p=7215
-image: /wp-content/uploads/2020/08/rsz_photo-1579373791421-d7b4b6dfb8b7.jpg
+featured_image: "/wp-content/uploads/2020/08/rsz_photo-1579373791421-d7b4b6dfb8b7.jpg"
 header-mask: 0.4
 id: 7215
 title: Surat Untuk Kamu

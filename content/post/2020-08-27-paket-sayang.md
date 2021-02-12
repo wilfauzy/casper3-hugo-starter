@@ -4,7 +4,7 @@ categories:
 - Share
 date: 2020-08-27T16:19:52Z
 guid: https://wildanfauzy.com/?p=7282
-image: /wp-content/uploads/2020/08/pexels-karolina-grabowska-4498125.jpg
+featured_image: "/wp-content/uploads/2020/08/pexels-karolina-grabowska-4498125.jpg"
 header-mask: 0.4
 id: 7282
 title: Paket Sayang

@@ -4,7 +4,7 @@ categories:
 - Note
 date: 2020-06-18T23:31:19Z
 guid: https://wildanfauzy.com/tidak-ada-yang-membosankan-selain-bosan-itu-sendiri/
-image: /wp-content/uploads/2020/06/pexels-photo-3807747.jpeg
+bigimg: "/wp-content/uploads/2020/06/pexels-photo-3807747.jpeg"
 header-mask: 0.4
 id: 4169
 title: Tidak Ada Yang Membosankan Selain Bosan Itu Sendiri

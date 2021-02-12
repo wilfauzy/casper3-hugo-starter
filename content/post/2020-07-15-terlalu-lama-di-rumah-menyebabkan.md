@@ -8,7 +8,7 @@ essb_cache_expire:
 essb_cached_image:
 - https://wildanfauzy.com/wp-content/uploads/2020/07/pexels-photo-298842.jpeg
 guid: https://wildanfauzy.com/terlalu-lama-di-rumah-menyebabkan/
-image: /wp-content/uploads/2020/07/pexels-photo-298842.jpeg
+bigimg: "/wp-content/uploads/2020/07/pexels-photo-298842.jpeg"
 header-mask: 0.4
 id: 4881
 mashsb_jsonshares:

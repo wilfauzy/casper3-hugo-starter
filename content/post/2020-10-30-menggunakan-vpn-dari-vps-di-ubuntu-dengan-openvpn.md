@@ -4,7 +4,7 @@ categories:
 - Linux
 date: 2020-10-30T16:57:17Z
 guid: https://wildanfauzy.com/?p=8567
-image: /wp-content/uploads/2020/10/vpnkonekkevps.jpeg
+featured_image: "/wp-content/uploads/2020/10/vpnkonekkevps.jpeg"
 header-mask: 0.4
 id: 8567
 tags:

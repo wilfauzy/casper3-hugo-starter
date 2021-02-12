@@ -4,7 +4,7 @@ categories:
 - Internet
 date: 2020-08-16T16:14:52Z
 guid: https://wildanfauzy.com/?p=6990
-image: /wp-content/uploads/2020/08/darkmode.jpg
+featured_image: "/wp-content/uploads/2020/08/darkmode.jpg"
 header-mask: 0.4
 id: 6990
 snax_approval_data:

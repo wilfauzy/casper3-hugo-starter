@@ -4,7 +4,7 @@ categories:
 - Linux
 date: 2020-08-21T18:19:50Z
 guid: https://wildanfauzy.com/?p=7146
-image: /wp-content/uploads/2020/08/Screenshot-pada-2020-08-20-23-17-41-min.png
+featured_image: "/wp-content/uploads/2020/08/Screenshot-pada-2020-08-20-23-17-41-min.png"
 header-mask: "0.4"
 id: 7146
 tags:

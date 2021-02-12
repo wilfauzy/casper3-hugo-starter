@@ -4,7 +4,7 @@ categories:
 - Note
 date: 2020-10-09T21:28:38Z
 guid: https://wildanfauzy.com/maaf-adalah-sebuah-kata/
-image: /wp-content/uploads/2020/10/kata-maaf.jpg
+featured_image: "/wp-content/uploads/2020/10/kata-maaf.jpg"
 header-mask: 0.4
 id: 8374
 title: Maaf Adalah Sebuah Kata

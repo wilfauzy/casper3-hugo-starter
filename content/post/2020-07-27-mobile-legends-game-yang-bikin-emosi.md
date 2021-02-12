@@ -4,7 +4,7 @@ categories:
 - Funny
 date: 2020-07-27T12:28:19Z
 guid: https://wildanfauzy.com/?p=5832
-image: /wp-content/uploads/2020/07/screen-6-1.jpg
+bigimg: "/wp-content/uploads/2020/07/screen-6-1.jpg"
 header-mask: 0.4
 id: 5832
 mashsb_jsonshares:

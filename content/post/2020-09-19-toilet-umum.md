@@ -4,7 +4,7 @@ categories:
 - WTF
 date: 2020-09-19T03:28:35Z
 guid: https://wildanfauzy.com/?p=8159
-image: /wp-content/uploads/2020/09/toilet-umum.jpg
+featured_image: "/wp-content/uploads/2020/09/toilet-umum.jpg"
 header-mask: 0.4
 id: 8159
 tags:

@@ -2,7 +2,7 @@
 author: WIlFauzy
 catalog: false
 date: 2020-12-30T11:00:00Z
-image: /img/unsplash-image-7.jpg
+featured_image: "/img/unsplash-image-7.jpg"
 header-mask: "0.4"
 tags:
 - note

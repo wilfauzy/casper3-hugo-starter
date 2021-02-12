@@ -5,7 +5,7 @@ categories:
 date: 2020-05-30T00:58:56Z
 guid: https://wildanfauzy.com/?p=2460
 id: 2460
-image: /wp-content/uploads/2020/06/pexels-photo-272887.jpeg
+bigimg: "/wp-content/uploads/2020/06/pexels-photo-272887.jpeg"
 mashsb_jsonshares:
 - '{"total":0}'
 mashsb_shares:

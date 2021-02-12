@@ -4,7 +4,7 @@ categories:
 - Cerita Pendek
 date: 2020-06-23T17:21:06Z
 guid: https://wildanfauzy.com/?p=4250
-image: /wp-content/uploads/2020/06/pexels-photo-1076999.jpeg
+bigimg: "/wp-content/uploads/2020/06/pexels-photo-1076999.jpeg"
 header-mask: 0.4
 id: 4250
 tags:

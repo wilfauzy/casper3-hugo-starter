@@ -4,7 +4,7 @@ categories:
 - WTF
 date: 2020-08-19T15:00:13Z
 guid: https://wildanfauzy.com/?p=7095
-image: /wp-content/uploads/2020/08/pexels-freestocksorg-34239.jpg
+featured_image: "/wp-content/uploads/2020/08/pexels-freestocksorg-34239.jpg"
 header-mask: 0.4
 id: 7095
 snax_approval_data:

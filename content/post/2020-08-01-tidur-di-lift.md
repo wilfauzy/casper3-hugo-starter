@@ -4,7 +4,7 @@ categories:
 - Note
 date: 2020-08-01T22:57:57Z
 guid: https://wildanfauzy.com/?p=6164
-image: /wp-content/uploads/2020/08/tidur-di-lift.jpeg
+bigimg: "/wp-content/uploads/2020/08/tidur-di-lift.jpeg"
 header-mask: 0.4
 id: 6164
 mashsb_jsonshares:

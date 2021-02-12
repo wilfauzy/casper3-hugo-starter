@@ -4,7 +4,7 @@ categories:
 - Cerita Pendek
 date: 2020-07-03T17:35:30Z
 guid: https://wildanfauzy.com/memancing-matahari-di-waktu-sore/
-image: /wp-content/uploads/2020/07/pexels-photo-349727.jpeg
+bigimg: "/wp-content/uploads/2020/07/pexels-photo-349727.jpeg"
 header-mask: 0.4
 id: 4781
 mashsb_jsonshares:

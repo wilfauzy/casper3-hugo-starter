@@ -5,7 +5,7 @@ categories:
 date: 2020-08-31T20:05:42Z
 format: quote
 guid: https://wildanfauzy.com/?p=7782
-image: /wp-content/uploads/2020/08/tidur-kesiangan.jpg
+featured_image: "/wp-content/uploads/2020/08/tidur-kesiangan.jpg"
 header-mask: 0.4
 id: 7782
 title: Tidur Terlalu Kesiangan

@@ -4,7 +4,7 @@ categories:
 - Cerita Pendek
 date: 2020-07-30T20:15:10Z
 guid: https://wildanfauzy.com/?p=6086
-image: /wp-content/uploads/2020/07/sore-shubuh-matahari-.jpg
+bigimg: "/wp-content/uploads/2020/07/sore-shubuh-matahari-.jpg"
 header-mask: 0.4
 id: 6086
 mashsb_jsonshares:

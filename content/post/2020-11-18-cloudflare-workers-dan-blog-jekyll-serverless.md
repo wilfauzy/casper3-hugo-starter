@@ -5,7 +5,7 @@ categories:
 - Internet
 date: 2020-11-18T19:27:57Z
 guid: https://wildanfauzy.com/?p=8635
-image: /wp-content/uploads/2020/11/serverless-cloudflare-workers.png
+featured_image: "/wp-content/uploads/2020/11/serverless-cloudflare-workers.png"
 header-mask: "0.4"
 id: 8635
 tags:

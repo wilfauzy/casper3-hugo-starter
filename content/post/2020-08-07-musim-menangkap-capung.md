@@ -4,7 +4,7 @@ categories:
 - Cerita Pendek
 date: 2020-08-07T00:22:20Z
 guid: https://wildanfauzy.com/musim-menangkap-capung/
-image: /wp-content/uploads/2020/08/pexels-photo-2583887.jpeg
+bigimg: "/wp-content/uploads/2020/08/pexels-photo-2583887.jpeg"
 header-mask: 0.4
 id: 6473
 mashsb_jsonshares:

@@ -4,7 +4,7 @@ categories:
 - Funny
 date: 2020-09-17T20:46:10Z
 guid: https://wildanfauzy.com/?p=8125
-image: /wp-content/uploads/2020/09/mengapa-mie-wakop-enak.jpg
+featured_image: "/wp-content/uploads/2020/09/mengapa-mie-wakop-enak.jpg"
 header-mask: 0.4
 id: 8125
 title: Mengapa Mie Buatan Orang Lain Rasanya Enak

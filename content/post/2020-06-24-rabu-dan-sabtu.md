@@ -22,7 +22,7 @@ feed_element_4340:
 gnpub_modified_count:
 - "2"
 guid: https://wildanfauzy.com/rabu-dan-sabtu/
-image: /wp-content/uploads/2020/06/red-school-blur-factory.jpg
+bigimg: "/wp-content/uploads/2020/06/red-school-blur-factory.jpg"
 header-mask: 0.4
 howto_step_4340:
 - a:0:{}

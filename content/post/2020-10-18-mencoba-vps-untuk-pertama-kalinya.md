@@ -4,7 +4,7 @@ categories:
 - Internet
 date: 2020-10-18T12:57:34Z
 guid: https://wildanfauzy.com/?p=8431
-image: /wp-content/uploads/2020/10/vps-untuk-pemula.jpg
+featured_image: "/wp-content/uploads/2020/10/vps-untuk-pemula.jpg"
 header-mask: "0.4"
 id: "8431"
 tags:

@@ -4,7 +4,7 @@ categories:
 - WTF
 date: 2020-09-02T00:12:33Z
 guid: https://wildanfauzy.com/?p=7836
-image: /wp-content/uploads/2020/09/makanan-sisa-kemaren.jpg
+featured_image: "/wp-content/uploads/2020/09/makanan-sisa-kemaren.jpg"
 header-mask: 0.4
 id: 7836
 tags:
