@@ -1,7 +1,7 @@
 DefaultContentLanguage = "id"
 author = "Redaksi"
 baseURL = "https://wildanfauzy.com"
-copyright = "Copyright © 2012–2021, WildanFauzy.com; all rights reserved."
+copyright = "© 2012–2021 WildanFauzy.com"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "id"
