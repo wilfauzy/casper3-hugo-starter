@@ -1,13 +1,13 @@
-DefaultContentLanguage = "en"
-author = "Steve Francia"
-baseURL = "https://gohugo.io/"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+DefaultContentLanguage = "id-ID"
+author = "Redaksi"
+baseURL = "https://wildanfauzy.com"
+copyright = "Copyright © 2012–2021, WildanFauzy.com; all rights reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-languageCode = "en"
+languageCode = "id"
 paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
-title = "Hugo Themes"
+title = "WildanFauzy.com"
 [[menu.main]]
 identifier = "about"
 name = "About"
